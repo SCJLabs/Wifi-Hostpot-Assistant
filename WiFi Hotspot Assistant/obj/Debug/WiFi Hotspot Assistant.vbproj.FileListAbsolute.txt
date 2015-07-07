@@ -1,0 +1,11 @@
+F:\Sync\GoogleDrive\Dev\Desktop\Visual Studio\WiFi Hotspot Assistant\WiFi Hotspot Assistant\bin\Debug\WiFi Hotspot Assistant.exe.config
+F:\Sync\GoogleDrive\Dev\Desktop\Visual Studio\WiFi Hotspot Assistant\WiFi Hotspot Assistant\bin\Debug\WiFi Hotspot Assistant.exe
+F:\Sync\GoogleDrive\Dev\Desktop\Visual Studio\WiFi Hotspot Assistant\WiFi Hotspot Assistant\bin\Debug\WiFi Hotspot Assistant.pdb
+F:\Sync\GoogleDrive\Dev\Desktop\Visual Studio\WiFi Hotspot Assistant\WiFi Hotspot Assistant\bin\Debug\WiFi Hotspot Assistant.xml
+F:\Sync\GoogleDrive\Dev\Desktop\Visual Studio\WiFi Hotspot Assistant\WiFi Hotspot Assistant\obj\Debug\WiFi Hotspot Assistant.vbprojResolveAssemblyReference.cache
+F:\Sync\GoogleDrive\Dev\Desktop\Visual Studio\WiFi Hotspot Assistant\WiFi Hotspot Assistant\obj\Debug\WiFi_Hotspot_Assistant.Form1.resources
+F:\Sync\GoogleDrive\Dev\Desktop\Visual Studio\WiFi Hotspot Assistant\WiFi Hotspot Assistant\obj\Debug\WiFi_Hotspot_Assistant.Resources.resources
+F:\Sync\GoogleDrive\Dev\Desktop\Visual Studio\WiFi Hotspot Assistant\WiFi Hotspot Assistant\obj\Debug\WiFi Hotspot Assistant.vbproj.GenerateResource.Cache
+F:\Sync\GoogleDrive\Dev\Desktop\Visual Studio\WiFi Hotspot Assistant\WiFi Hotspot Assistant\obj\Debug\WiFi Hotspot Assistant.exe
+F:\Sync\GoogleDrive\Dev\Desktop\Visual Studio\WiFi Hotspot Assistant\WiFi Hotspot Assistant\obj\Debug\WiFi Hotspot Assistant.xml
+F:\Sync\GoogleDrive\Dev\Desktop\Visual Studio\WiFi Hotspot Assistant\WiFi Hotspot Assistant\obj\Debug\WiFi Hotspot Assistant.pdb
